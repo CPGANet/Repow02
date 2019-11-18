@@ -1,6 +1,6 @@
 import java.awt.List;
 import java.util.*;
-
+//Es es Master
 public class EjScanner {
     public static void main(String[] arguments) {
         Scanner input = new Scanner(System.in);
