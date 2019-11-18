@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b53f17e-ac79-4273-9ae5-1945efc57ad1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/EjScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EjScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <state relative-caret-position="476">
+              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2778#2779#0" expanded="true" />
@@ -45,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,7 +101,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574090035267" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574090480681" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Template Data Languages" />
   </component>
@@ -161,19 +161,25 @@
       <option name="project" value="LOCAL" />
       <updated>1574020454685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creada la nueva testRama">
+      <created>1574090426368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574090426368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="23" width="1940" height="1007" extended-state="1" />
-    <editor active="true" />
+    <frame x="-11" y="23" width="1940" height="1007" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2526596" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2526596" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -181,7 +187,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32951945" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32951945" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32951945" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3993135" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -199,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comienzo del Ejemplo 02" />
     <MESSAGE value="Comienzo del Ejemplo 02 cambiando el nombre.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comienzo del Ejemplo 02 cambiando el nombre.java" />
+    <MESSAGE value="Creada la nueva testRama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creada la nueva testRama" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
@@ -257,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EjScanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        <state relative-caret-position="476">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2778#2779#0" expanded="true" />
